@@ -6,16 +6,21 @@
 另外，还包括数据加载与增强、种子高光谱图像自动分割与ROI提取、光谱与图像可视化以及评估方法。
 
   1、图像自动分割
+  
   ![image](https://github.com/Sophia-luna-Song/HSI_Automatic/assets/59360539/adba07c5-b5c1-47eb-9227-b9b99b81d7c2)
 
   2、光谱与图像可视化
+  
   光谱可视化
+  
   ![image](https://github.com/Sophia-luna-Song/HSI_Automatic/assets/59360539/27f145cf-924f-4413-b6d5-51064379ad24)
 
   图像灰度图
+  
   ![image](https://github.com/Sophia-luna-Song/HSI_Automatic/assets/59360539/219b97c3-a50e-4b2e-86ae-0e9bf322dcf9)
   
   图像伪彩图
+  
   ![image](https://github.com/Sophia-luna-Song/HSI_Automatic/assets/59360539/1fe2eedd-c2f7-45cb-aef8-6319c316ec84)
 
   
