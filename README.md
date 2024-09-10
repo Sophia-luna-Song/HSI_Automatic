@@ -1,6 +1,8 @@
 # HSI_Automatic
 
-文章发表在《Food Chemistry》期刊，Q1 8.5，欢迎引用。
+该方法在利用玉米种子高光谱图像的单粒油脂含量预测中验证，并取得良好效果。
+
+相关文章发表在《Food Chemistry》期刊，Q1 8.5，欢迎引用。
 原文链接：https://www.sciencedirect.com/science/article/abs/pii/S0308814624025822
 
 
