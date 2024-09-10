@@ -32,6 +32,4 @@
   
 
 ## 总结：
-代码现仅供学术使用，若对您的学术研究有帮助，请引用本人的论文（https://www.sciencedirect.com/science/article/abs/pii/S0308814624025822
-
-同时，未经许可不得用于商业化应用，欢迎大家继续补充更多的高光谱图像处理方法。（代码参考了https://github.com/FuSiry/OpenSA）
+代码现仅供学术使用，若对您的学术研究有帮助，请引用本人的论文。同时，未经许可不得用于商业化应用，欢迎大家继续补充更多的高光谱图像处理方法。（代码参考了https://github.com/FuSiry/OpenSA）
